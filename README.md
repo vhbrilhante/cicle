@@ -5,9 +5,11 @@ A câmera do tablet identifica o resíduo na esteira, o triador confirma ou corr
 
 Projeto da disciplina na Afya São Lucas, equipe Cicle.
 
+**Ver o protótipo: [vhbrilhante.github.io/cicle](https://vhbrilhante.github.io/cicle/)**
+
 ## Como abrir
 
-Não há instalação nem build. Abra `index.html` no navegador ou publique a pasta no GitHub Pages (Settings → Pages → branch `main`, pasta `/`).
+Não há instalação nem build. Acesse o link acima ou abra `index.html` no navegador. Cada push na `main` publica de novo no GitHub Pages.
 
 As fontes (Inter Tight, Atkinson Hyperlegible e Archivo) vêm do Google Fonts. Sem internet, o protótipo funciona com as fontes do sistema.
 
